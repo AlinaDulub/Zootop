@@ -1,6 +1,6 @@
 // JavaScript Document
 
-$(document).ready(function() {
+&(document).ready(function() {
 // Форма обратной связи................................./
 
 var regVr22 = "<div><img style='margin-bottom:-4px;' src='../load.gif' alt='Отправка...' width='16' height='16'><span style='font: 11px Verdana; color:#333; margin-left:6px;'>Сообщение обрабатывается...</span></div><br />";
